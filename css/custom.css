@@ -238,7 +238,7 @@ header .header-content .header-content-inner p {
     }
 
     .navbar-default .navbar-header .navbar-brand {
-        color: rgba(255,255,255,.7);
+        color: rgba(15,3,252,.7);
         letter-spacing: 0.5em;
     }
 
@@ -249,7 +249,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default .nav > li>a,
     .navbar-default .nav>li>a:focus {
-        color: rgba(0,255,255,.7);
+        color: rgba(255,255,255,.7);
     }
 
     .navbar-default .nav > li>a:hover,
