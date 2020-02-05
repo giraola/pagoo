@@ -96,7 +96,7 @@ header .header-content .header-content-inner p {
 
 .intro {
 	color: #fff;
-    background-color: red;
+    background-color: rgba(84,96,196,.7);
     padding: 70px 0;
     text-align: center;
 }
