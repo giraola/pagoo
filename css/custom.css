@@ -239,7 +239,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default .navbar-header .navbar-brand {
         color: rgba(15,3,252,.7);
-        letter-spacing: 0.5em;
+        letter-spacing: 0.1em;
     }
 
     .navbar-default .navbar-header .navbar-brand:hover,
